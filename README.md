@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! 👋 I'm Wesbert Edouard<br>Software Engineer And Full-Stack Developer<br>I Focus on Building Modern Applications and Websites That Lead To Impactful Solution
+Hi! 👋 I'm Wesbert Edouard<br>Software Engineer And Full-Stack Developer<br>I Focus on Building Modern Applications and Websites That Lead To Impactful Solutions
 
 
 ## 🌐 Socials:
