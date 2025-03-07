@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! 👋 I'm Wesbert Edouard<br>Full-Stack Developer<br>I Focus on Building Modern Applications and Websites That Lead To Impactful Solutions
+Hi! 👋 I'm Wesbert Edouard<br>Java Developer<br>I Focus on Building Modern Applications and Websites That Lead To Impactful Solutions
 
 
 ## 🌐 Socials:
